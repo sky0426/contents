@@ -1,0 +1,227 @@
+[
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "종로구",
+    "kor_man_count": 67625,
+    "kor_woman_count": 72320,
+    "foreigner_man_count": 4597,
+    "foreigner_woman_count": 6585
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "중구",
+    "kor_man_count": 58788,
+    "kor_woman_count": 62617,
+    "foreigner_man_count": 4873,
+    "foreigner_woman_count": 5547
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "용산구",
+    "kor_man_count": 103804,
+    "kor_woman_count": 112348,
+    "foreigner_man_count": 7842,
+    "foreigner_woman_count": 6698
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "성동구",
+    "kor_man_count": 135143,
+    "kor_woman_count": 143223,
+    "foreigner_man_count": 2966,
+    "foreigner_woman_count": 4211
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "광진구",
+    "kor_man_count": 161892,
+    "kor_woman_count": 174712,
+    "foreigner_man_count": 6167,
+    "foreigner_woman_count": 9188
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "동대문구",
+    "kor_man_count": 167468,
+    "kor_woman_count": 173770,
+    "foreigner_man_count": 6468,
+    "foreigner_woman_count": 11407
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "중랑구",
+    "kor_man_count": 187844,
+    "kor_woman_count": 194953,
+    "foreigner_man_count": 2030,
+    "foreigner_woman_count": 3113
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "성북구",
+    "kor_man_count": 205245,
+    "kor_woman_count": 222426,
+    "foreigner_man_count": 4497,
+    "foreigner_woman_count": 7921
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "강북구",
+    "kor_man_count": 140589,
+    "kor_woman_count": 149566,
+    "foreigner_man_count": 1613,
+    "foreigner_woman_count": 3036
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "도봉구",
+    "kor_man_count": 149281,
+    "kor_woman_count": 158459,
+    "foreigner_man_count": 823,
+    "foreigner_woman_count": 1570
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "노원구",
+    "kor_man_count": 240084,
+    "kor_woman_count": 259905,
+    "foreigner_man_count": 1875,
+    "foreigner_woman_count": 2559
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "은평구",
+    "kor_man_count": 221977,
+    "kor_woman_count": 245121,
+    "foreigner_man_count": 1608,
+    "foreigner_woman_count": 2449
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "서대문구",
+    "kor_man_count": 146119,
+    "kor_woman_count": 161322,
+    "foreigner_man_count": 4332,
+    "foreigner_woman_count": 9606
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "마포구",
+    "kor_man_count": 170296,
+    "kor_woman_count": 193961,
+    "foreigner_man_count": 4047,
+    "foreigner_woman_count": 7335
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "양천구",
+    "kor_man_count": 213648,
+    "kor_woman_count": 223753,
+    "foreigner_man_count": 1316,
+    "foreigner_woman_count": 1874
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "강서구",
+    "kor_man_count": 270491,
+    "kor_woman_count": 293848,
+    "foreigner_man_count": 2470,
+    "foreigner_woman_count": 3169
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "구로구",
+    "kor_man_count": 193258,
+    "kor_woman_count": 200671,
+    "foreigner_man_count": 12207,
+    "foreigner_woman_count": 10679
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "금천구",
+    "kor_man_count": 115038,
+    "kor_woman_count": 113573,
+    "foreigner_man_count": 7094,
+    "foreigner_woman_count": 6371
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "영등포구",
+    "kor_man_count": 184175,
+    "kor_woman_count": 191411,
+    "foreigner_man_count": 11682,
+    "foreigner_woman_count": 11022
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "동작구",
+    "kor_man_count": 183880,
+    "kor_woman_count": 196274,
+    "foreigner_man_count": 4342,
+    "foreigner_woman_count": 6244
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "관악구",
+    "kor_man_count": 244198,
+    "kor_woman_count": 240974,
+    "foreigner_man_count": 6190,
+    "foreigner_woman_count": 9220
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "서초구",
+    "kor_man_count": 193703,
+    "kor_woman_count": 212701,
+    "foreigner_man_count": 2087,
+    "foreigner_woman_count": 2275
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "강남구",
+    "kor_man_count": 258656,
+    "kor_woman_count": 282301,
+    "foreigner_man_count": 2452,
+    "foreigner_woman_count": 2882
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "송파구",
+    "kor_man_count": 315224,
+    "kor_woman_count": 340520,
+    "foreigner_man_count": 2568,
+    "foreigner_woman_count": 3203
+  },
+  {
+    "year": 2023,
+    "quarter": 3,
+    "district": "강동구",
+    "kor_man_count": 224075,
+    "kor_woman_count": 234310,
+    "foreigner_man_count": 1812,
+    "foreigner_woman_count": 2256
+  }
+]
